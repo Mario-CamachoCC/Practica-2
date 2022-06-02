@@ -6,7 +6,7 @@ La primera imagen sera creada por una Inteligencia Artificial a partir de palabr
 
 Primero entre al link de la Inteligencia Aritificial [[Aquí](https://colab.research.google.com/drive/1go6YwMFe5MX6XM9tv-cnQiSTU50N9EeT)].
 
-![](img\1.png)
+![](main\img\1.png)
 
 Una vez aquí, seguí los pasos del sherpa Jesús, lo primero fue darle click al texto de "conectar" que aparece en la parte superior derecha de la pagina.
 
